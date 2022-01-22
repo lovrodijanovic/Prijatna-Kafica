@@ -6,4 +6,5 @@
     <string name="coffeeFrenchPress">French Press</string>
     <string name="coffeeAero">AeroPress</string>
     <string name="coffeeV60">V60</string>
+    <string name="back">X</string>
 </resources>
