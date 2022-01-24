@@ -1,9 +1,7 @@
 package com.example.prijatnakafica
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.ImageButton
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -16,6 +14,9 @@ class french : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_french)
 
+        val EXTRA_TEXT = "com.example.application.example.EXTRA_TEXT";
+        val steps : Array<String> = intent.getStringArrayExtra(EXTRA_TEXT) as Array<String>
+
         val actionBar = supportActionBar
         actionBar!!.title = "French Press"
         actionBar.setDisplayHomeAsUpEnabled(true)
@@ -23,7 +24,7 @@ class french : AppCompatActivity() {
         layoutManager = LinearLayoutManager(this)
         val myRecyclerView = findViewById<RecyclerView>(R.id.recyclerView)
         myRecyclerView.layoutManager = layoutManager
-        adapter = RecyclerAdapter()
+        adapter = RecyclerAdapter(steps)
         myRecyclerView.adapter = adapter
     }
 }

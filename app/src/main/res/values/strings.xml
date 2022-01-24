@@ -7,4 +7,6 @@
     <string name="coffeeAero">AeroPress</string>
     <string name="coffeeV60">V60</string>
     <string name="back">X</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
