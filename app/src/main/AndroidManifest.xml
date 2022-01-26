@@ -10,29 +10,45 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PrijatnaKafica">
         <activity
+            android:name=".InfoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".tabbed_activity"
+            android:exported="false" />
+        <activity
+            android:name=".TabbedActivity"
+            android:exported="false"
+            android:label="@string/title_activity_tabbed"
+            android:theme="@style/Theme.PrijatnaKafica.NoActionBar" />
+        <activity
+            android:name=".ScrollingActivity"
+            android:exported="false"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/Theme.PrijatnaKafica.NoActionBar" />
+        <activity
             android:name=".mocca"
             android:exported="false"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".french"
             android:exported="false"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".espresso"
             android:exported="false"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".aero"
             android:exported="false"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".v60"
             android:exported="false"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".chemex"
             android:exported="false"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

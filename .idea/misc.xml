@@ -3,16 +3,33 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.1" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/drawable/ic_baseline_replay_24.xml" value="0.1" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_aero.xml" value="0.36140350877192984" />
         <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_chemex.xml" value="0.33" />
         <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_espresso.xml" value="0.3495614035087719" />
         <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_french.xml" value="0.3495614035087719" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_info.xml" value="0.3157894736842105" />
         <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_main2.xml" value="0.42916666666666664" />
         <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_mocca.xml" value="0.3495614035087719" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_tabbed.xml" value="0.25" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_timer.xml" value="0.3219298245614035" />
         <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/activity_v60.xml" value="0.33" />
         <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/card_layout.xml" value="0.33" />
-        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/fragment_french_press.xml" value="0.3219298245614035" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/content_scrolling.xml" value="0.31008771929824563" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/fragment_about.xml" value="0.33" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/fragment_aero_press.xml" value="0.36140350877192984" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/fragment_chemex.xml" value="0.36140350877192984" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/fragment_espresso.xml" value="0.33" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/fragment_french_press.xml" value="0.33" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/fragment_mocca.xml" value="0.33" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/fragment_tabbed.xml" value="0.31008771929824563" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/fragment_timer.xml" value="0.3219298245614035" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/layout/fragment_v60.xml" value="0.36140350877192984" />
+        <entry key="..\:/Faks/3. God/ORWiMA/Prijatna Kafica/app/src/main/res/menu/menu_scrolling.xml" value="0.3219298245614035" />
       </map>
     </option>
   </component>
